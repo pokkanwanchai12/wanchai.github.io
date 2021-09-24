@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: inherit
+    
+}
+.clearfix{
+    clear: both;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-left: 0;
+    
+
+}
+header{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 238, 0);
+
+}
+img{
+    margin-top: 10%;
+    top: 0;
+    left: 0;
+    width: 30%;
+    height: 40%;
+    font-size: 20%;
+}
+.aa1{
+   font-style: oblique;
+   background-color: black;
+   width: 100%;
+   height: 80px;
+   text-align: center;
+   font-size: 10%;
+}
+.aa2{
+   background-color: rgb(255, 238, 0);
+   width: 100%;
+   height: 50px;
+   font-style: oblique;
+}
+.aa3{
+   background-color: rgb(255, 238, 0);
+   width: 100%;
+   height: 50%;
+   text-align: center;
+
+}
+.hobbies{
+    background-color: rgb(255, 238, 0);
+    width: 100%;
+    height: 300px; 
+    font-style: oblique; 
+    text-align: center;
+}
+
+.pro{
+    text-align: start;
+    image-rendering: auto;
+    position: absolute;
+    padding: 1%;
+    
+}
+.pr{
+    background-image: linear-gradient(150deg, #ffffff69 5%, #0000006b 95%); 
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    font-size: 100%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+.prof{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding: 5%;
+    background-color: #666666;
+background-image: url("บัก.jpg");
+background-position: right top;
+background-size: contain;
+background-repeat: no-repeat;
+}
+.EDUCATION{
+    text-align: start;
+    image-rendering: auto;
+    position: absolute;
+    padding: 1%;
+}
+.EDUC{
+    background-image: linear-gradient(150deg, #ffffff69 5%, #0000006b 95%); 
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    font-size: 100%;
+    margin-top: 3%;
+}
+.EDU{
+    text-align: left;
+    padding: 5%;
+    text-align: center;
+    
+
+}
+
+.Experrince{
+    text-align: start;
+    image-rendering: auto;
+    position: absolute;
+    padding: 1%;
+    margin-top: 20px;
+    
+}
+.Exper{
+    background-image: linear-gradient(150deg, #ffffff69 5%, #0000006b 95%); 
+    width: 1300px;
+    height: 50px;
+    text-align: center;
+    font-size: 100%;
+    margin-top: 3%;
+    margin-bottom: 30px;
+}
+.skilss{
+    text-align: start;
+    image-rendering: auto;
+    position: absolute;
+    padding: 1%;
+    
+}
+.skil{
+    background-image: linear-gradient(150deg, #ffffff69 5%, #0000006b 95%); 
+    width: 1300px;
+    height: 50px;
+    text-align: center;
+    font-size: 10px;
+    margin-top: 3%;
+}
+
+.sk{
+    background-color: rgb(255, 246, 246);
+    width: 90%;
+    height: 60%;
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+    display: 50%;
+    
+
+}
